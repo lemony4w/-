@@ -1,0 +1,29 @@
+<1doctype html>
+<html lanf="en">
+<head>
+
+</head>
+
+<body>
+  <table>
+    <tr>
+     <th> blank </th>
+     <th> July </th>
+     <th> August </th>
+     <th> September </th>
+    </tr>
+    <tr>
+      <td> code </tr>
+      <td> typing, web building </td>
+      <td> python </td>
+      <td> css </td>
+     </tr>
+     <tr>
+      <td> exersise </td>
+      <td> PT </td>
+      <td calspan ="2"> 헬스 </td>
+     </tr>
+     <tr>
+      <td calspan = "3"> socialise </td>
+</body>
+</html>
